@@ -13,7 +13,9 @@ Advantages
 -----------
 
 Efficiency: Automates the attendance process, reducing the time and effort required for manual recording.
+
 Accuracy: Minimizes errors associated with manual entry and prevents proxy attendance.
+
 Convenience: Provides a non-intrusive way to mark attendance, as users do not need to carry ID cards or remember PINs.
 
 Challenges
